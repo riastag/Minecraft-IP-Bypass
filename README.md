@@ -16,7 +16,7 @@
 - Никакого дополнительного ПО (например, Python) не требуется для запуска.
 
 ### Инструкции
-1. Перейдите на вкладку [**Releases**](https://github.com/yourusername/minecraft-ip-bypass/releases).
+1. Перейдите на вкладку [**Releases**]([https://github.com/yourusername/minecraft-ip-bypass/releases](https://github.com/riastag/Minecraft-IP-Bypass/releases/tag/minecraftipbypass)).
 2. Скачайте последнюю версию `MinecraftIPBypass.zip`.
 3. Разархивируйте папку из архива
 4. Перейдите в папку `dist`
